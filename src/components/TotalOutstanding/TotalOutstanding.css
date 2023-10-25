@@ -1,0 +1,15 @@
+.text-item{
+    text-decoration-line: none !important;
+    color: black;
+}
+.rdt_TableHead{
+      border-right: 1px solid #ddd;
+      border-left:  1px solid #ddd;
+      border-top:  1px solid #ddd;
+  }
+
+  .rdt_TableCol  .rdt_Table{
+    border-right: 1px solid #ddd;
+    border-left:  1px solid #ddd;
+    border-top:  1px solid #ddd;
+  }
